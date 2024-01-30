@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahulsingh0420
 - 👀 I’m interested in Livewire-Laravel  
 - 🌱 I’m currently learning MERN Technology And AWS
-- 🌱 I have good skill of HTML, CSS, JS, BOOTSTRAP, PHP, MYSQL, LARAVEL, LIVEWIRE, NODE JS, EXPRESS JS.  
+- 🌱 I have good skill of HTML, CSS, JS, BOOTSTRAP, PHP, MYSQL, LARAVEL, LIVEWIRE, MERN stack.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? => contact me on instagram at @r_wat__ji 
 
